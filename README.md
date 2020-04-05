@@ -149,8 +149,6 @@ If all staff have quit, we must determine every role that is needed to run a res
 
 ![code](docs/codesnip.png)
 
-
-
 The error in this code snippet is celsius = gets as in the ruby programming language, gets is used for user input which is default data type would be a string and string cannot be called as we are look celsius which number or a integer which to make the this line of code work, is to change gets to gets.to_i. As this will change the string to integer allowing the user to input a number that can be converted to fahrenheit.
 
 ## Q13 The code snippet below looks for the first two elements that are out of order and swaps them; however, it is not producing the correct results. Rewrite the code so that it works correctly.
@@ -206,7 +204,7 @@ So if Tom is allergic to peanuts and chocolate, he gets a score of 34.
  a) whether or not they’re allergic to a given item
  b) the full list of allergies.
 
- Image
+![code](docs/q16.png)
 
 ## References
 
