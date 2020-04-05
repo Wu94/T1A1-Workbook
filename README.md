@@ -193,5 +193,50 @@ So if Tom is allergic to peanuts and chocolate, he gets a score of 34.
 
  Image
 
+## References
+
+https://web.archive.org/web/20170202190225/http://nsfnet-legacy.org/about.php
+https://www.nap.edu/read/6323/chapter/9#177
+https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+https://www.forbes.com/sites/gilpress/2015/01/02/a-very-short-history-of-the-internet-and-the-web-2/#26cbec877a4e
+https://en.wikipedia.org/wiki/History_of_the_Internet
+https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+https://en.wikipedia.org/wiki/Network_packet
+https://en.wikipedia.org/wiki/IP_address
+https://en.wikipedia.org/wiki/IPv4
+https://www.cs.uct.ac.za/mit_notes/web_programming/html/ch07s05.html
+https://support.bigcommerce.com/s/article/Domains-and-DNS
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/
+https://www.avast.com/c-what-is-tcp-ip
+https://www.entrepreneur.com/article/281633
+https://www.ssl.com/faqs/what-is-https/
+https://en.wikipedia.org/wiki/Web_browser
+https://en.wikipedia.org/wiki/Web_development_tools
+https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
+https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+https://www.rubyguides.com/2019/04/ruby-data-structures/
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
+https://ruby-doc.org/core-2.7.0/Array.html
+https://ruby-doc.org/core-2.7.0/Hash.html
+https://medium.com/hackernoon/compilers-and-interpreters-3e354a2e41cf
+https://scoutapm.com/blog/ruby-interpreters-what-you-need-to-know
+https://www.netguru.com/blog/python-pros-and-cons
+https://data-flair.training/blogs/advantages-disadvantages-javascript/
+https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e
+https://guide.freecodecamp.org/computer-science/compiled-versus-interpreted-languages/
+https://en.wikipedia.org/wiki/Interpreter_(computing)
+https://www.oaic.gov.au/privacy/guidance-and-advice/what-is-personal-information/
+https://www.oaic.gov.au/privacy/the-privacy-act/
+https://www.copyright.com.au/about-copyright/
+https://www.ipaustralia.gov.au/
+https://www.naceweb.org/career-development/organizational-structure/case-study-data-security/
+http://zetcode.com/lang/rubytutorial/flowcontrol/
+https://medium.com/@soni.dumitru/control-flow-in-ruby-18bdd6bdb92d
+https://en.wikipedia.org/wiki/Type_conversion
+https://en.wikipedia.org/wiki/Data_type
+
+
+
 
 
