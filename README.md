@@ -202,6 +202,7 @@ So if Tom is allergic to peanuts and chocolate, he gets a score of 34.
 ### Write a program that, given a person’s score can tell them:
 
  a) whether or not they’re allergic to a given item
+ 
  b) the full list of allergies.
 
 ![code](docs/q16.png)
