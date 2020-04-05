@@ -103,13 +103,15 @@ Intellectual property is defined as a new idea that you or someone has created w
 
 ### Conduct research into a case study of ONE of the ethical issues you have chosen and discuss how an ethical IT professional should respond to the case study and how they might mitigate or prevent ethical breaches. 
 
+![case](docs/casestudy.png)
+
 In this scenario, issues that need to be looked into are the career centers contract or agreement with the external service provider, which may outline the use of personal information that the students provide on their profiles. To prevent breaches of personal information being shared, an IT professional would create a term and conditions that the students can look at before signing up or complete creating the profile to the career center and also seek agreement between the career center and the external service provider that the student information that is used, will only be used within the career center as this would mitigate the breach of privacy of the students. Another issue would be what personal information is needed to be provided in the profiles which some information could be not needed. For instance if the students information was used for things other than information tailored to users experience with a system being able to provide individual career interest, this would be a breach of intellectual property and would be able seek legal action to compensate the breach of personal information. An IT professionals would make sure that non-essential detail should not be placed into the career center profile when creating a profile builder page and also make sure that the data is encrypted so no third party could not easily access the students personal information used for malicious applications. Would also need to know how staff members of the career center would direct the correct information to students they feel safe that their information has been taken advantage of in other applications. For staff members to be able to relay correct information to students, they would need training or information about privacy of personal information and defined uses of how the information is used and that it will not breach the students rights of personal information being used for something else. To mitigate or prevent these things to happen an IT professional would create a frequently ask questions page on the career center website to be able to relay information to students in a easy understandable way that student can easily read and understand which would hopefully make students to be more comfortable about their personal information to be for their individual career purposes. In conclusion for students to feel safe about their personal information to be only used for career purposes, an agreement must be developed between the career center and external provider so that if there is a breach of use of the student information, that legal action can be seeked to compensate for damages. Also for the student and staff members to be able acquire correct information of how the student information is used so students or staff won't be misled or given misleading information.   
 
 ## Q8 Explain control flow, using an example from the Ruby programming language
 
 A control flow in programming languages is used to direct statements in a certain order from start to finish. In ruby, control flow is most commonly used in if/elif and else statements.
 
-image
+![controlflow](docs/controlflow.png)
 
 In the example above shows statements of win conditions in a blackjack game. At the start an if statement is alway first as it asks if the dealer hand is greater than 21 which refers to a boolean.  Then after the first if, can either go to elsif statement which is another if statement but continues to check the next statement or to an else statement which is used at the end which it finds the opposite of the if/elsif statements.
 
@@ -127,7 +129,7 @@ A boolean has a value of true or false which is used in programming languages to
 
 A numeric type of data consists of either an integer or a float. The difference between the two is that a float has a decimal point or to be fraction while an integer does not. 
 
-image 
+![numeric](docs/numbereg.png)
 
 The example above shows that x is an integer while y is a float. 
 
@@ -145,7 +147,9 @@ If all staff have quit, we must determine every role that is needed to run a res
 
 ## Q12 Identify and explain the error in the code snippet below that is preventing correct execution of the program.
 
-Image
+![code](docs/codesnip.png)
+
+
 
 The error in this code snippet is celsius = gets as in the ruby programming language, gets is used for user input which is default data type would be a string and string cannot be called as we are look celsius which number or a integer which to make the this line of code work, is to change gets to gets.to_i. As this will change the string to integer allowing the user to input a number that can be converted to fahrenheit.
 
@@ -153,17 +157,17 @@ The error in this code snippet is celsius = gets as in the ruby programming lang
 
 ### Code snippet 
 
-image
+![code](docs/codesnip2.png)
 
 ### The correct code
 
-Image
+![code](docs/correctcode.png)
 
 ## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order:
 
 ### Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive). Your flowchart should make use of standard conventions for flowcharts to indicate processes, tasks, actions, or operations
 
-image 
+![chart](docs/flowchart.png)
 
 ### Write pseudocode for the process outlined in your flowchart
 
@@ -182,7 +186,7 @@ Return to first loop
 
 ### You have access to two variables: raining (boolean) and temperature (integer). If it’s raining and the temperature is less than 15 degrees, print to the screen “It’s wet and cold”, if it is less than 15 but not raining print “It’s not raining but cold”. If it’s greater than or equal to 15 but not raining print “It’s warm but not raining”, and otherwise tell them “It’s warm and raining”.
 
-Image
+![code](docs/q15.png)
 
 ## Q16 An allergy test produces a single numeric score which contains the information about all the allergies the person has (that they were tested for). The list of items (and their value) that were tested are:
 
