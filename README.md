@@ -68,7 +68,7 @@ In ruby a hash is a group of unique keys which can be a string, integer symbol o
 
 A binary tree is a concept of linked data structures which is made of nodes that refers to left or right data and the top node is called the root. Binary trees are mainly used for data compression, routing tables and Abstract syntax trees. Compared to an array or hash, binary trees are uncommonly used as the use of arrays and hashes are more helpful in applications.  Example of Binary tree below: 
 
-![binary][docs/binarytree.png]
+![binary](docs/binarytree.png)
 
 ## Q5 Describe the features of interpreters and compilers and how they are different.
 
