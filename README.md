@@ -165,7 +165,16 @@ image
 
 ### Write pseudocode for the process outlined in your flowchart
 
-image
+Begin loop for user  input number between 2 - 100
+
+If i is not smaller than number then prime equals true
+
+	Start second loop
+
+if i is smaller than number then prime number is false 
+
+Return to first loop
+
 
 ## Q15 Write pseudocode OR Ruby code for the following problem:
 
